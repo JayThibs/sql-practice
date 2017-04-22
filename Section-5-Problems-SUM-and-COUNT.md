@@ -1,6 +1,6 @@
 # [SQLZoo Tutorial Solutions](http://sqlzoo.net/wiki/SQL_Tutorial)
 
-## [SELECT within SELECT Tutorial:](https://sqlzoo.net/wiki/SUM_and_COUNT)
+## [SUM and COUNT tutorial:](https://sqlzoo.net/wiki/SUM_and_COUNT)
 
 ### 1. Show the total population of the world.
 ```sh
